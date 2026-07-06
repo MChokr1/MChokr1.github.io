@@ -1,0 +1,12 @@
+{
+  "keys": [
+    {
+      "kty": "RSA",
+      "alg": "RS384",
+      "use": "sig",
+      "kid": "pa-platform-epic-key-1",
+      "n": "yHY8PNtp1d56IcTvHk7vXJO2lAxOsOnqD43-OfEEL2iLbv_NDX064THIuWaNIN-O9EmMQiZWUIqqkP5ecacgZkkM-JYgY0pIwhTSlNfoIg92zJ_RsS4rm8W6USe9wS0j5HrFiMsM3e20nid4XpWvHjrZ72XjrkiEbnKm4GoUU8gBY07xmYxWSg4NbgwJOijbfQLRmx2XOYiUirBLX5AuEm1sdbIMj9tqcxq6vOca0S3paS4AqYTQFX8fhR3O-MxVMAwfHkO0gY5X59DtClSDu-WmQCSy1JKJX8dxHELb3zaelRfJIVnvY5Wmn6NeuWVtFgJmFeqXH-yUqUp0IZTFSw",
+      "e": "AQAB"
+    }
+  ]
+}
